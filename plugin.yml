@@ -1,0 +1,9 @@
+name: score
+main: com.prmol.score.plugin
+version: 1.0
+author: Prmol
+commands:
+    score:
+        description: 积分系统
+        usage: /score help
+        

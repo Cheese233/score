@@ -1,0 +1,16 @@
+rank: 10
+hdx: 0
+hdy: 0 
+hdz: 0
+#空格使用%代替 两个参数之间不要多空空格!
+gifts:
+    - '276 §e霸王剑 全服积分排名前十^可以获得此剑,非常锋利 sharpness:4,unbreaking:2'
+201701:
+    1: TheKing
+    2: TheSecondPlayer
+    3: TheThirdPlayer
+    needGift:
+        - TheKing
+        - TheSecondPlayer
+    sent: false
+        

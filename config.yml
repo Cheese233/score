@@ -1,0 +1,18 @@
+
+addScore: 5
+#增加
+
+addScore_low: 3
+#高段位杀死低段位后加分
+
+reduceScore: 3
+#减少
+reduceScore_high: 5
+#高段位被低段位杀死后减分
+
+
+
+enableWorlds:
+    - world
+    - world_nether
+    - world_the_end
